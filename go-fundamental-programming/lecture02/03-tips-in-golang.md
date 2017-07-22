@@ -20,7 +20,7 @@
 // package 必须放在『非注释或非空行的第一行』
 //
 // package 包名
-pakcage main
+package main
 
 // 导入其他包
 // 导入的包名需要使用『双引号』括起来

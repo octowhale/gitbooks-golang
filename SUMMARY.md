@@ -1,7 +1,7 @@
 # golang 学习笔记
 
 ##《GO 编程基础》学习笔记
-  + [《GO 编程基础》项目简介][go-fundamental-programming/READMD.md]
+  + [《GO 编程基础》项目简介](go-fundamental-programming/READMD.md)
 
 + [02 基础知识](go-fundamental-programming/SUMMARY.md)
   + [ 内置函数 ](go-fundamental-programming/lecture02/01-buildin-keyword-in-golang.md)
