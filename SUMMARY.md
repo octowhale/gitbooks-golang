@@ -2,4 +2,4 @@
 
 ## 《GO 编程基础》学习笔记
 
-[](SUMMARY.md)
+[笔记目录](go-fundamental-programming/SUMMARY.md)
