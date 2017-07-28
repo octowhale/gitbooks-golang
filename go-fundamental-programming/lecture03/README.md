@@ -1,0 +1,5 @@
++ [ 变量、常量、类型的批量声明 ](01-how-to-define-groups-of-variable-const-type.md)
++ [ Golang 中的基本对象类型 ](02-the-basic-types-of-objects.md)
++ [ 类型别名、零值与边界 ](05-alias-name-default-value-check-edge.md)
++ [ 变量定义规则 ](03-how-to-define-variables.md)
++ [ 变量类型转换 ](04-how-to-change-the-type-of-variables.md)
